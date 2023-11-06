@@ -273,3 +273,12 @@ body {
     line-height: 24px;
     color: #161D2A;
 }
+
+.href-resume {
+    margin-right: 0;
+    font-style: normal;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 24px;
+        color: #2979FF;
+}
