@@ -179,6 +179,8 @@ body {
 
 .contacts-item {
     margin: auto;
+    display: flex;
+    gap: 5px;
 }
 
 .contacts-numbers {
@@ -186,7 +188,7 @@ body {
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
-    color: #161D2A;
+    color: #2979FF;
 }
 
 .contacts-email {
@@ -272,15 +274,15 @@ body {
     line-height: 24px;
     color: #161D2A;
 }
-
+/* 
 .href-resume {
     font-style: normal;
     font-weight: 400;
     font-size: 10px;
     line-height: 24px;
     color: #2979FF;
-}
+} */
 
 .svg-icon {
-    gap: 10px;
+    margin-right: ;
     }    
